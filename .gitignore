@@ -1,0 +1,15 @@
+# OS 임시 파일
+.DS_Store
+Thumbs.db
+Desktop.ini
+ehthumbs.db
+
+# 에디터 / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 로그
+*.log
