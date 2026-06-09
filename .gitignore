@@ -5,6 +5,7 @@ Desktop.ini
 ehthumbs.db
 
 # 에디터 / IDE
+.cursor/
 .vscode/
 .idea/
 *.swp
